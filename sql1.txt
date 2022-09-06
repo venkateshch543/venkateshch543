@@ -1,0 +1,11 @@
+﻿emp_idno    emp_fname                                emp_lname                                emp_dept
+----------- ---------------------------------------- ---------------------------------------- -----------
+127323      micheal                                  robbin                                   57
+843795      enric                                    dosio                                    57
+847674      kuleswar                                 sitaraman                                57
+555935      alex                                     manuel                                   57
+
+(4 rows affected)
+
+
+Completion time: 2022-09-06T20:50:55.6569868+05:30
