@@ -1,0 +1,19 @@
+create table ev(
+emp_idno  int, emp_fname varchar(40),emp_lname varchar(40),emp_dept int );
+
+
+insert into ev
+values 
+(843795,'enric','dosio',57),
+(32817,'jhon','snares',63),
+(444527,'joseph','dosni',47),
+(659831,'zanifer','emily',47),
+(847674 ,'kuleswar','sitaraman',57),
+(748671,'henry','gabriel',47),
+(555935,'alex','manuel',57);
+
+select * from ev
+where emp_dept=57;
+
+select * from ev
+where emp_dept=57;
