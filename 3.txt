@@ -1,0 +1,12 @@
+﻿Year        Subject                        Winner
+----------- ------------------------------ ------------------------------
+1971        Physics                        Dennis gabor
+1971        Chemistry                      Gerhard Herzberg
+1971        Peace                          Willy Brandt
+1971        Literature                     Pabola Neruda
+1971        Economics                      Simon Kuznets
+
+(5 rows affected)
+
+
+Completion time: 2022-09-07T19:46:04.7534775+05:30
